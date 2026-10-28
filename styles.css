@@ -11,4 +11,10 @@ div {
 #title{
     color: black;
     background-color: violet;
+
 } 
+/* these are descendant combinators*/
+.ancestor .contents{
+    background-color: blue ;
+
+}
