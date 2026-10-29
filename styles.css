@@ -8,13 +8,14 @@ div {
 .alter-text{ 
     color:red;
 }
+/* this is to call for the class*/
 #title{
     color: black;
     background-color: violet;
 
 } 
 /* these are descendant combinators*/
-.ancestor .contents{
+.ancestor.contents{
     background-color: blue ;
 
 }
