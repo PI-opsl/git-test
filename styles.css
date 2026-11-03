@@ -1,6 +1,9 @@
 *{
     color:purple;
-    outline:2px solid red ;
+    width:500px;
+    border:auto;
+  
+    
     
 }
 div { 
@@ -15,8 +18,5 @@ div {
     background-color: violet;
 
 } 
-/* these are descendant combinators*/
-.ancestor.contents{
-    background-color: blue ;
 
-}
+
