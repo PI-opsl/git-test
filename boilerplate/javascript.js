@@ -23,3 +23,12 @@ const actual =max-13
 const percentage =actual/max 
 console.log (b);
 console.log (percentage);
+
+let name="Pius";
+alert( `Hello , ${name}!`);
+alert(`the result is ${1+2}` );
+let age;
+alert(age);
+let age= 100;
+ age = undefined;
+ alert(age);
